@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Parth Mahadik  
+# 👋 Hi, I’m arnav shelke
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=2BC0E4&center=true&vCenter=true&width=800&lines=Parth+Mahadik+%7C+Data+Science+Student;ML+%26+DL+Enthusiast;AI+%26+Data+Science+Projects" alt="typing animation" />
