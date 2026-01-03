@@ -58,9 +58,7 @@
 
 ## 📜 Certifications  
 
-- ✅ C Programming Training Certificate (Oct 2023)  
-- ✅ TCS iON Career Edge – Young Professional (Dec 2023)  
-- ✅ Machine Learning Course – Programming Hub (Jan 2025)  
+data-science certification from wipro 2024
 
 ---
 
