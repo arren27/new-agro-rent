@@ -1,17 +1,13 @@
 # 👋 Hi, I’m arnav shelke
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&color=2BC0E4&center=true&vCenter=true&width=800&lines=Parth+Mahadik+%7C+Data+Science+Student;ML+%26+DL+Enthusiast;AI+%26+Data+Science+Projects" alt="typing animation" />
-</p>
 
----
 
 ## 🚀 About Me  
 
-🎓 Final-year **B.Sc. Data Science** student at Thakur College of Science and Commerce.  
+🎓 second-year **B.tech computer science** student at trinity college of engineering and research  
 💡 Passionate about **Machine Learning, Deep Learning, and AI solutions**.  
-📊 Ranked **2nd in DS Department (2023/24)** with SGPA **9.2**.  
+   academics (2023/24)** with SGPA **8.5**.  
 🛠️ Skilled in **Data Visualization, EDA, Model Deployment, and AI Research**.  
 
 ---
@@ -77,4 +73,4 @@
 
 ---
 
-⭐ *Made with ❤️ by Parth Mahadik*  
+⭐ *Made with ❤️ by arnav shelke
